@@ -70,6 +70,19 @@ $if(abstract)$
 
 $endif$
 
+<h1 class="title">
+<img src="Images/logo1.png" alt="logo" class="logol" />
+<img src="Images/logo2.png" alt="logo" class="logol" />
+<img src="Images/logo3.png" alt="logo" class="logol" />
+Crisis Horizon
+<img src="Images/logo4.png" alt="logo" class="logor" />
+<img src="Images/logo5.png" alt="logo" class="logor" />
+<img src="Images/logo6.png" alt="logo" class="logor" />
+</h1>
+
+<p class="center"><em>Digital reprints of forgotten classics.</em></p>
+
+
 
 $body$
 </body>
