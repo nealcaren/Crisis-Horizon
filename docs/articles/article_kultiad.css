@@ -41,7 +41,8 @@ html, button, input, select, textarea {
 html, body, button, input, select, textarea {
     color: #57534A;
     font-family: "Fira Sans","Myriad Pro","Myriad",sans-serif;
-    font-size: 18px;
+    font-size: 1.25rem;
+    line-height: 1.875rem;
     font-weight: 300;
 }
 
@@ -66,13 +67,13 @@ body {
     padding-right: 4rem;
     margin-left: auto;
     margin-right: auto;
-    max-width: 40rem;
     display: block;
+    max-width: 600px;
 }
 
 .pagenum {
     position: absolute;
-    right: 15%;
+    right: 10%;
     font-size: smaller;
     text-align: right;
     font-style: normal
@@ -86,7 +87,6 @@ h1, h2, h3, dt {
 
 h1 {
     font-size: 2.5em;
-   #margin: 0.67em 0;
 }
 
 h1, .title {

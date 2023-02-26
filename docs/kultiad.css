@@ -20,7 +20,8 @@ html, button, input, select, textarea {
 html, body, button, input, select, textarea {
     color: #57534A;
     font-family: "Fira Sans","Myriad Pro","Myriad",sans-serif;
-    font-size: 18px;
+    font-size: 1.25rem;
+    line-height: 1.875rem;
     font-weight: 300;
 }
 
@@ -45,7 +46,7 @@ body {
     padding-right: 4rem;
     margin-left: auto;
     margin-right: auto;
-    max-width: 40rem;
+    max-width: 600px;
     display: block;
 }
 

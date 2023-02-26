@@ -14,3 +14,6 @@ pandoc -s   -o docs/about.html --template=templates/html.template markdown/about
 
 
 pandoc -s   -o docs/index.html --template=templates/html.template markdown/index.md  --css=kultiad.css
+
+
+

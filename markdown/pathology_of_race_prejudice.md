@@ -13,6 +13,8 @@ date: 1927
 abstract: The attitude of races to one another has given rise to much speculation, and many writers have maintained that men do not differ greatly from ants in their antipathies. Race hatred is so strong among ants that their battles can be arranged with certainty by entomologists for the movies. A more flattering view of human prejudices is here suggested; for if they are chiefly due to psychopathology there is hope that with the progress of science a somewhat more rational attitude may eventually prevail.
 
 citation: <em>The Forum,</em> vol LXXVII, no. 6, 1927, pp. 856--862.
+citationl: \emph{The Forum}, vol LXXVII, no. 6, 1927, pp. 856--862.
+
 
 citation_title: The Pathology of Race Prejudice
 citation_journal_title: The Forum
