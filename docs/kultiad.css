@@ -15,12 +15,14 @@ html {
 }
 html, button, input, select, textarea {
     font-family: sans-serif;
+
 }
 
 html, body, button, input, select, textarea {
-    color: #57534A;
+    color: #57534A; 
     font-family: "Fira Sans","Myriad Pro","Myriad",sans-serif;
-    font-size: 1.25rem;
+    font-family: "PT Serif","Calluna","Arno Pro",serif;
+    font-size: 20px;
     line-height: 1.875rem;
     font-weight: 300;
 }
