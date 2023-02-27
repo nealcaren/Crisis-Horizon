@@ -10,8 +10,8 @@ $endfor$
 $if(citation_journal_title)$
   <meta name="citation_journal_title" content="$citation_journal_title$">
 $endif$
-$if(citation_title)$
-  <meta name="citation_title" content="$citation_title$">
+$if(title)$
+  <meta name="citation_title" content="$title$">
 $endif$
 $if(citation_author)$
   <meta name="citation_author" content="$citation_author$">
@@ -58,9 +58,14 @@ $for(header-includes)$
 $endfor$
 </head>
 <body>
+
+
+
   <nav class="sticky-content">
-    <span class="publisher"><a href="../index.html">Crisis Horizon</a></span>
-    <span class="title">$title$</span>
+    <span class="publisher"><img class="logo"  src="../Images/logo1.png" alt="logo" />
+    <a href="../index.html">Crisis Horizon</a></span>
+    <img src="../Images/logo4.png" class="logo"  alt="logo"  />
+    <span class="title">$short_title$</span>
   </nav>
 
 $for(include-before)$

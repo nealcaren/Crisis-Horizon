@@ -22,4 +22,4 @@
 * "[Chicago and It's Eight Reasons.](articles/chicago.html)" <em>The Crisis,</em> 1919, pp. 293--397.
 
 
-[About <span class="small-caps">Crisis Horizon</span>](about.html).
+<p class="center"> [About <span class="">Crisis Horizon</span>](about.html)

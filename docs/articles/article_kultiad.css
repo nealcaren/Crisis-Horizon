@@ -7,6 +7,15 @@
    Description: Easy to read. Pandoc style elements. 
 */
 
+img.logo {
+    width: 16px;
+    padding-right: 1px;
+    padding-left: 1px;   
+    padding-bottom: 1px; 
+    vertical-align: middle;
+    display: inline
+  }
+
 
 /* Sticky Content
    ========================================================================== */
@@ -15,8 +24,9 @@
     top: 0;
     z-index: 10;
     background-color: #ffffff;
-    padding: .5rem;
-    padding-bottom: 1rem;
+    padding-left: 0rem;
+    padding-right: .5rem;
+    padding-bottom: .75rem;
 }
 .sticky-content-title {
     margin: 0;
@@ -381,7 +391,9 @@ a.footnote-ref {
 section.footnotes {
     font-size: smaller;
     margin-top: 0em;
+    line-height: .5;
 }
+
 
 #footnotes {
     margin-top: 0em;
@@ -391,5 +403,9 @@ section.footnotes {
     .pagenum {
       display: none;
     }
+    body {
+        padding-left: 1rem;
+        padding-right: 1rem;
   }
-#footnotes
+  
+

@@ -3,7 +3,7 @@ charset: 'UTF-8'
 lang:    'en'
 
 title: The Garvey Movement
-
+short_title: Garvey Movement
 author:
 - name: E. Franklin Frazier
 - affiliation: ""
@@ -14,7 +14,6 @@ date: 1926
 citation: <em>Opportunity,</em> vol 4, no. 47, May 1926, pp. 346--348.
 
 
-citation_title: The Garvey Movement
 citation_journal_title: Opportunity
 citation_author: Frazier, Franklin E.
 citation_publication_date: 1926

@@ -36,39 +36,7 @@ $endfor$
 $for(include-before)$
 $include-before$
 $endfor$
-$if(title)$
-<header>
-$if(date)$
-<h2 class="date">$date$</h2>
-$endif$
 
-<h1 class="title">$title$</h1>
-
-
-$for(author)$
-<h2 class="author">$author.name$</h2>
-<p class="affilation"><em>$author.affiliation$</em></p>
-$endfor$
-
-</header>
-$endif$
-$if(toc)$
-<nav id="$idprefix$TOC">
-$toc$
-</nav>
-$endif$
-
-$if(citation)$
-
-<p class="citation">$citation$</p>
-
-$endif$
-
-$if(abstract)$
-
-<p class="small"><strong>Abstract: </strong><em>$abstract$</em></p>
-
-$endif$
 
 <h1 class="title">
 <img src="Images/logo1.png" alt="logo" class="logol" />

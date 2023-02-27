@@ -3,6 +3,7 @@ charset: 'UTF-8'
 lang:    'en'
 
 title: A Program for a Sociological Society
+short_title: Sociological Society
 
 author:
 - name: W.E.B. Du Bois

@@ -3,6 +3,7 @@ charset: 'UTF-8'
 lang:    'en'
 
 title: The Task of Negro Womanhood
+short_title: Task of Negro Womanhood
 
 author:
 - name: Elise Johnson McDougald
