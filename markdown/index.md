@@ -11,6 +11,7 @@
 * "[The Negro Mind Reaches Out](articles/reaches.html)." <em>The New Negro An Interpretation</em> edited by Alain Locke, 1925, pp. 385--414.
 
 ### E. Franklin Frazier
+* "[The Garvey Movement.](articles/garvey.html)" <em>Opportunity,</em> vol 4, no. 47, May 1926, pp. 346--348.
 * "[The Pathology of Race Prejudice.](articles/pathology.html)" <em>The Forum,</em> vol LXXVII, no. 6, 1927, pp. 856--862.
 
 ### Elise Johnson McDougald
