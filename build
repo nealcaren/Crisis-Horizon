@@ -12,6 +12,8 @@ pandoc -s -o docs/articles/program.html --template=templates/article_html.templa
 
 pandoc -s -o docs/articles/garvey.html --template=templates/article_html.template markdown/garvey.md  --css=article_kultiad.css
 
+pandoc -s -o docs/articles/negro_women.html --template=templates/article_html.template markdown/negro_women.md  --css=article_kultiad.css
+
 
 
 pandoc -s   -o docs/about.html --template=templates/html.template markdown/about.md  --css=kultiad.css --metadata title="About"
