@@ -94,7 +94,7 @@ $endif$
 
 $if(abstract)$
 
-<p class="small"><strong>Abstract: </strong><em>$abstract$</em></p>
+<p class="abstract"><strong>Abstract: </strong>$abstract$</p>
 
 $endif$
 <hr>

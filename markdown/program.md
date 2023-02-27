@@ -15,7 +15,7 @@ citation: Address given at the First Sociological Club. Special Collections and 
 
 
 
-I desire this afternoon to read to the First Sociological Club a
+<span class="pagenum" id="Page_1">[1]</span>I desire this afternoon to read to the First Sociological Club a
 candid criticism of its' work and a suggestion for its' future activity.
 I do this the more boldly because I am a member of the organization and as such must bear my part of the responsibility for its' short­ comings; and at the same time, I speak as an outsider, for in the year that I have had my name on the rolls I have had no opportunity to share in the work of the club. I always hear with a certain foreboding shiver of the formation of a club for any kind of sociological work, for my experience has taught me that the percentage of absolute failure among
 such clubs is very large. The trouble is apt to be that the persons forming clubs for social reform have very vague ideas of what the science of sociology really is, and what is the real aim and object of their striving. Consequently it can easily happen that they drift aimlessly on until the members begin to wonder whether it is worthwhile to waste so much time doing nothing. I fancy I have seen in this club something of the same tendency, and it seems to me that the great need of this organization is a clearer conception of its' aims and more practical

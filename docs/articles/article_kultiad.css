@@ -3,7 +3,7 @@
    Please leave this notice in place, along with any additional credits below.
    ---------------------------------------------------------------
    Title: Kultiad
-   Author: Peter Sziebig - @bigpe; Modified by Kieran Healy - @kjhealy
+   Author: Peter Sziebig - @bigpe; Modified by Kieran Healy - @kjhealy; Then by Neal Caren
    Description: Easy to read. Pandoc style elements. 
 */
 
@@ -22,8 +22,14 @@
     margin: 0;
 }
 
+nav .publisher {
+    font-variant: small-caps; 
+
+}
 nav .title {
     float: right;
+    font-family: "Fira Sans","Myriad Pro","Myriad",sans-serif;
+    font-size: 20px;
 }
 
 .correction {
@@ -40,7 +46,6 @@ html, button, input, select, textarea {
 
 html, body, button, input, select, textarea {
     color: #57534A;
-    font-family: "Fira Sans","Myriad Pro","Myriad",sans-serif;
     font-family: "PT Serif","Calluna","Arno Pro",serif;
     font-size: 20px;
     line-height: 1.875rem;
@@ -96,14 +101,16 @@ h1 {
 
 h1, .title {
     margin-bottom: 1em;
+    font-size: 1.6rem;
+
 }
 
 h2, .article-list .article-title {
-    font-size: 1.65em;
-    margin: 1.25em 0 0 0;
+    font-size: 1.25em;
+    margin: .5em 0 0 0;
     margin-top: 1.2em 0 0 0;
     padding-bottom:0;
-    padding-top: 1em;
+    padding-top: .5em;
 }
 h3, dt {
     font-size: 1.17em;
@@ -218,7 +225,13 @@ hr {
     border-image: none;
     border-style: none none solid;
     border-width: medium medium 1px;
-    margin: 3em 6em;
+    margin-top: 2em;
+    width: 30%;
+    margin-bottom: 2em;
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
 
 
@@ -286,15 +299,14 @@ small, dd, figcaption {
 }
 
 
-citation {
-    color: #A19C91;
+p.citation {
     display: block;
-    font-size: 0.8rem;
+
     font-style: normal;
     line-height: 1.2;
     font-family: "Fira Sans","Myriad Pro","Myriad",sans-serif;
-
 }
+
 
 tbody{display:table-row-group}
 tfoot{display:table-footer-group}
@@ -335,7 +347,8 @@ caption{display:table-caption;font-weight:300;font-size:1.3em;text-transform:upp
   padding-bottom:0;
   padding-top:0.5em;
   line-height: 0;
-  font-size:1.4em;
+  font-size:1.25em;
+  font-weight: 400;
 }
 
 .date {
@@ -355,7 +368,10 @@ caption{display:table-caption;font-weight:300;font-size:1.3em;text-transform:upp
    font-style: italic;
 }
 
-
+.abstract {
+    font-family: "Fira Sans","Myriad Pro","Myriad",sans-serif;
+    font-size: 18px;
+}
 @media only screen and (max-width: 600px) {
     .pagenum {
       display: none;
