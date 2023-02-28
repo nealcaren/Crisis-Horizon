@@ -366,10 +366,11 @@ img.logol {
   }
 
 
-  @media only screen and (max-width: 700px) {
+@media only screen and (max-width: 480px) {
     .pagenum {
       display: none;
     }
+
     body {
         padding-left: 1rem;
         padding-right: 1rem;
