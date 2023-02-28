@@ -88,7 +88,7 @@ h1.title {
 h2, .article-list .article-title {
     font-size: 1.65em;
     margin: 1.25em 0 0 0;
-    margin-top: 1.2em 0 0 0;
+    margin-top: 1.2em;
     padding-bottom:0;
     padding-top: 1em;
 }
@@ -229,7 +229,7 @@ ol > li:before {
 }
 
 ul > li:before {
-    background-color: #white;
+    background-color: white;
     border-radius: 14px 14px 14px 14px;
     content: "";
     height: 6px;
@@ -289,7 +289,7 @@ tfoot{display:table-footer-group}
 table{margin-bottom:2em;font-size: 0.8em;padding:0;border-collapse:collapse;-webkit-box-shadow:1px 1px 2px rgba(0,0,0,.35);width:80%;margin:0 auto 2em auto}
 table th,table td{padding:10px 10px 9px;line-height:18px;text-align:left}
 table th{
-padding-top:9px;!important;text-transform:uppercase;vertical-align:middle}
+padding-top:9px;text-transform:uppercase;vertical-align:middle}
 table td{vertical-align:top;border-top:1px solid #ddd;}
 table tbody th{border-top:1px solid #ddd;vertical-align:top}
 table{border:1px solid #ddd;border-collapse:separate;*border-collapse:collapse;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px}
@@ -366,14 +366,12 @@ img.logol {
   }
 
 
-@media only screen and (max-width: 480px) {
-    .pagenum {
-      display: none;
-    }
+  @media (max-width:632px) {
 
     body {
-        padding-left: 1rem;
-        padding-right: 1rem;
+        padding-left: .5rem;
+        padding-right: .5rem;
+        color:red;
 }
 }
 
