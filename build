@@ -1,24 +1,25 @@
-pandoc -s -o docs/articles/african_roots_of_war.html --template=templates/article_html.template markdown/african_roots_of_war.md  --css=article_kultiad.css
+pandoc -s -o docs/articles/african_roots_of_war.html --template=templates/article_html.template markdown/african_roots_of_war.md  --css=article_style.css
 
-pandoc -s -o docs/articles/pathology.html --template=templates/article_html.template markdown/pathology_of_race_prejudice.md --css=article_kultiad.css
+pandoc -s -o docs/articles/pathology.html --template=templates/article_html.template markdown/pathology_of_race_prejudice.md --css=article_style.css
 
-pandoc -s -o docs/articles/reaches.html --template=templates/article_html.template markdown/reaches.md  --css=article_kultiad.css
+pandoc -s -o docs/articles/reaches.html --template=templates/article_html.template markdown/reaches.md  --css=article_style.css
 
-pandoc -s -o docs/articles/womanhood.html --template=templates/article_html.template markdown/womanhood.md  --css=article_kultiad.css
+pandoc -s -o docs/articles/womanhood.html --template=templates/article_html.template markdown/womanhood.md  --css=article_style.css
 
-pandoc -s -o docs/articles/chicago.html --template=templates/article_html.template markdown/chicago.md  --css=article_kultiad.css
+pandoc -s -o docs/articles/chicago.html --template=templates/article_html.template markdown/chicago.md  --css=article_style.css
 
-pandoc -s -o docs/articles/program.html --template=templates/article_html.template markdown/program.md  --css=article_kultiad.css
+pandoc -s -o docs/articles/program.html --template=templates/article_html.template markdown/program.md  --css=article_style.css
 
-pandoc -s -o docs/articles/garvey.html --template=templates/article_html.template markdown/garvey.md  --css=article_kultiad.css
+pandoc -s -o docs/articles/garvey.html --template=templates/article_html.template markdown/garvey.md  --css=article_style.css
 
-pandoc -s -o docs/articles/negro_women.html --template=templates/article_html.template markdown/negro_women.md  --css=article_kultiad.css
+pandoc -s -o docs/articles/negro_women.html --template=templates/article_html.template markdown/negro_women.md  --css=article_style.css
+
+pandoc -s -o docs/articles/after_garvey.html --template=templates/article_html.template markdown/after_garvey.md  --css=article_style.css
 
 
+pandoc -s   -o docs/about.html --template=templates/html.template markdown/about.md  --css=style.css --metadata title="About"
 
-pandoc -s   -o docs/about.html --template=templates/html.template markdown/about.md  --css=kultiad.css --metadata title="About"
-
-pandoc -s   -o docs/index.html --template=templates/html.template markdown/index.md  --css=kultiad.css --metadata title="Crisis Horizon"
+pandoc -s   -o docs/index.html --template=templates/html.template markdown/index.md  --css=style.css --metadata title="Crisis Horizon"
 
 
 

@@ -31,7 +31,6 @@ $endif$
 $if(citation_lastpage)$
   <meta name="citation_lastpage" content="$citation_lastpage$">
 $endif$
-</header>
 
 
   <title>$if(title-prefix)$$title-prefix$ - $endif$$pagetitle$</title>
@@ -70,7 +69,6 @@ $for(include-before)$
 $include-before$
 $endfor$
 $if(title)$
-<header>
 
 
 <h1 class="title">$title$</h1>
