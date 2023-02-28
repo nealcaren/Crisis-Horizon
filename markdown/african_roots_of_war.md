@@ -3,6 +3,7 @@ charset: 'UTF-8'
 lang:    'en'
 
 title: The African Roots of War
+short_title: African Roots of War
 
 author:
 - name: W.E.B. Du Bois
@@ -23,7 +24,7 @@ citation_lastpage: 714
 
 ---
 
-<h2 class ="center">I</h2>
+<h2 class ="top">I</h2>
 
 'Semper novi quid ex Africa,' cried the Roman proconsul; and he voiced the verdict of forty centuries. Yet there are those who would write world-history and leave out this most marvelous of continents. Particularly to-day most men assume that Africa lies far afield from the centres of our burning social problems, and especially from our present problem of World War.
 

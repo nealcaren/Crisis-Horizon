@@ -3,7 +3,9 @@
    Please leave this notice in place, along with any additional credits below.
    ---------------------------------------------------------------
    Title: Kultiad
-   Author: Peter Sziebig - @bigpe; Modified by Kieran Healy - @kjhealy; Then by Neal Caren
+   Author: Peter Sziebig - @bigpe; 
+   Modified by Kieran Healy - @kjhealy; 
+   Then by Neal Caren
    Description: Easy to read. Pandoc style elements. 
 */
 
@@ -19,7 +21,7 @@ img.logo {
 
 /* Sticky Content
    ========================================================================== */
-   .sticky-content {
+nav {
     position: sticky;
     top: 0;
     z-index: 10;
@@ -31,15 +33,17 @@ img.logo {
 .sticky-content-title {
     margin: 0;
 }
-
-nav .publisher {
+span.publisher > a {
     font-variant: small-caps; 
-
+    color: grey;
 }
+
+
 nav .title {
     float: right;
     font-family: "Fira Sans","Myriad Pro","Myriad",sans-serif;
     font-size: 1.12rem;
+    color: grey;
 }
 
 .correction {
@@ -121,6 +125,11 @@ h2, .article-list .article-title {
     margin-top: 1.2em 0 0 0;
     padding-bottom:0;
     padding-top: .5em;
+}
+
+h2.top {
+    margin-top: 0em;
+    padding-top: 0em;
 }
 h3, dt {
     font-size: 1.17em;
@@ -237,8 +246,8 @@ hr {
     border-style: none none solid;
     border-width: medium medium 1px;
     margin-top: 2em;
+    margin-bottom: 1em;
     width: 30%;
-    margin-bottom: 2em;
     border: 0;
     height: 1px;
     background: #333;
@@ -399,13 +408,16 @@ section.footnotes {
     margin-top: 0em;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 700px) {
     .pagenum {
       display: none;
     }
     body {
         padding-left: 1rem;
         padding-right: 1rem;
-  }
+}
   
+.center {
+    text-align: center;
+}
 
