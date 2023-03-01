@@ -2,7 +2,7 @@
 charset: 'UTF-8'
 lang:    'en'
 
-title: A Program for a Sociological Society
+title: A Program for a Sociological&nbsp;Society
 short_title: Sociological Society
 
 author:

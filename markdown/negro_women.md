@@ -2,7 +2,7 @@
 charset: 'UTF-8'
 lang:    'en'
 
-title: Negro Women in Our Economic Life
+title: Negro Women in Our Economic&nbsp;Life
 citation_title: Negro Women in Our Economic Life
 short_title: Negro Women
 

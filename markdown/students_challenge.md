@@ -2,7 +2,7 @@
 charset: 'UTF-8'
 lang:    'en'
 
-title: Negro Students Challenge Social Forces
+title: Negro Students Challenge Social&nbsp;Forces
 short_title: Students Challenge
 
 author:

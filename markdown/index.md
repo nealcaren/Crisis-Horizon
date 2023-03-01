@@ -18,7 +18,7 @@
 * "[The Pathology of Race Prejudice.](articles/pathology.html)" <em>The Forum,</em> vol LXXVII, no. 6, 1927, pp. 856--862.
 
 ### Maurice Gates
-* "[Negro Students Challenge Social Forces](articles/students_challenge.html)."  <em>The Crisis,</em> vol 42, no. 8, Aug. 1935, pp. 232--233, 251.
+* "[Negro Students Challenge Social&nbsp;Forces](articles/students_challenge.html)."  <em>The Crisis,</em> vol 42, no. 8, Aug. 1935, pp. 232--233, 251.
 
 ### Charles S. Johnson
 * "[Public Opinion and the Negro](articles/public_opinion.html)." <em>Opportunity,</em> vol 1, no. 7, July 1923, pp.  201--205.
