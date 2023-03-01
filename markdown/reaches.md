@@ -3,7 +3,7 @@ charset: 'UTF-8'
 lang:    'en'
 
 title: The Negro Mind Reaches Out
-
+short_title: The Negro Mind Reaches Out
 author:
 - name: W.E.B. Du Bois
 - affiliation: ""

@@ -76,6 +76,7 @@ $if(title)$
 
 $for(author)$
 <h2 class="author">$author.name$</h2>
+<p class="affilation"><em>$author.affiliation$</em></p>
 $endfor$
 
 
@@ -97,6 +98,7 @@ $if(abstract)$
 <p class="abstract"><strong>Abstract: </strong>$abstract$</p>
 
 $endif$
+<hr>
 
 
 $body$
