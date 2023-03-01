@@ -10,8 +10,7 @@
 
 ### W.E.B. Du Bois
 * "[A Program for a Sociological Society.](articles/program.html)" Address given at the First Sociological Club, ca. 1897.
-
-* "[The African Roots of War.](articles/african_roots_of_war.html)" <em>The Atlantic Monthly,</em> May, 1915, pp. 707--714.
+<!--* "[The African Roots of War.](articles/african_roots_of_war.html)" <em>The Atlantic Monthly,</em> May, 1915, pp. 707--714.-->
 * "[The Negro Mind Reaches Out](articles/reaches.html)." <em>The New Negro An Interpretation</em> edited by Alain Locke, 1925, pp. 385--414.
 
 ### E. Franklin Frazier
@@ -19,6 +18,7 @@
 * "[The Pathology of Race Prejudice.](articles/pathology.html)" <em>The Forum,</em> vol LXXVII, no. 6, 1927, pp. 856--862.
 
 ### Charles S. Johnson
+* "[Public Opinion and the Negro](articles/public_opinion.html)." <em>Opportunity,</em> vol 1, no. 7, July 1923, pp.  201--205.
 * "[After Garvey---What?](articles/after_garvey.html)" <em>Opportunity,</em> vol 1, no. 8, Aug. 1923, pp.  231--233.
 
 
