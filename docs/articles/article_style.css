@@ -258,6 +258,96 @@ table td {
   display: none;
 }
 
+
+
+/* Nav Bar */
+nav {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background-color: #ffffff;
+  padding-left: 0rem;
+  padding-right: .5rem;
+  padding-bottom: .75rem;
+}
+.sticky-content-title {
+  margin: 0;
+}
+span.publisher > a {
+  font-variant: small-caps; 
+  color: grey;
+}
+
+nav .title {
+float: right;
+font-family: "Fira Sans","Myriad Pro","Myriad",sans-serif;
+font-size: 1.12rem;
+color: grey;
+}
+/* End Nav Bar */
+
+/* Fancy HR */
+
+hr {
+-moz-border-bottom-colors: none;
+-moz-border-left-colors: none;
+-moz-border-right-colors: none;
+-moz-border-top-colors: none;
+border-color: -moz-use-text-color -moz-use-text-color #ECE6DA;
+border-image: none;
+border-style: none none solid;
+border-width: medium medium 1px;
+margin-top: 4rem;
+margin-bottom: 1em;
+margin: auto;
+width: 30%;
+border: 0;
+height: 1px;
+background: #333;
+background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+
+hr.top {
+margin-top: 2rem;
+margin-bottom: 1rem;
+}
+
+.correction {
+text-decoration: none; /* replace default underline, if present ... */
+border-bottom: thin dotted gray; /* ... with delicate gray line */
+}
+
+p.citation {
+display: block;
+margin-top: .5rem;
+margin-bottom: 3rem;
+font-style: normal;
+line-height: 1.2;
+font-family: "Fira Sans","Myriad Pro","Myriad",sans-serif;
+}
+
+.author{
+margin-top: .5em;
+margin-bottom: 0;
+padding-bottom:0;
+padding-top:0.5em;
+line-height: 0;
+font-size:1.25em;
+font-weight: 400;
+text-align: left;
+}
+
+h1.title {
+margin-top: .5;
+}
+
+.footnotes p {
+padding-top: 0;
+margin-top: 0;
+}
+
+
+
 @media only screen and (min-width: 480px) {
   body {
     font-size: 14px;
@@ -351,89 +441,3 @@ table td {
 }
 
 
-
-/* Nav Bar */
-   nav {
-    position: sticky;
-    top: 0;
-    z-index: 10;
-    background-color: #ffffff;
-    padding-left: 0rem;
-    padding-right: .5rem;
-    padding-bottom: .75rem;
-}
-.sticky-content-title {
-    margin: 0;
-}
-span.publisher > a {
-    font-variant: small-caps; 
-    color: grey;
-}
-
-nav .title {
-  float: right;
-  font-family: "Fira Sans","Myriad Pro","Myriad",sans-serif;
-  font-size: 1.12rem;
-  color: grey;
-}
-/* End Nav Bar */
-
-/* Fancy HR */
-
-hr {
-  -moz-border-bottom-colors: none;
-  -moz-border-left-colors: none;
-  -moz-border-right-colors: none;
-  -moz-border-top-colors: none;
-  border-color: -moz-use-text-color -moz-use-text-color #ECE6DA;
-  border-image: none;
-  border-style: none none solid;
-  border-width: medium medium 1px;
-  margin-top: 4rem;
-  margin-bottom: 1em;
-  margin: auto;
-  width: 30%;
-  border: 0;
-  height: 1px;
-  background: #333;
-  background-image: linear-gradient(to right, #ccc, #333, #ccc);
-}
-
-hr.top {
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-}
-
-.correction {
-	text-decoration: none; /* replace default underline, if present ... */
-	border-bottom: thin dotted gray; /* ... with delicate gray line */
-}
-
-p.citation {
-  display: block;
-  margin-top: .5rem;
-  margin-bottom: 3rem;
-  font-style: normal;
-  line-height: 1.2;
-  font-family: "Fira Sans","Myriad Pro","Myriad",sans-serif;
-}
-
-.author{
-  margin-top: .5em;
-  margin-bottom: 0;
-  padding-bottom:0;
-  padding-top:0.5em;
-  line-height: 0;
-  font-size:1.25em;
-  font-weight: 400;
-  text-align: left;
-}
-
-h1.title {
-  margin-top: .5;
-}
-
-.footnotes p {
-  padding-top: 0;
-  margin-top: 0;
-}
