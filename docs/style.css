@@ -366,11 +366,12 @@ img.logol {
   }
 
 
-  @media (max-width:632px) {
+@media (max-width:632px) {
 
     body {
         padding-left: .5rem;
         padding-right: .5rem;
+        max-width: 95%;
         color:red;
 }
 }

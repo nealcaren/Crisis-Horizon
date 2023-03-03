@@ -14,8 +14,9 @@
 * "[The Negro Mind Reaches Out](articles/reaches.html)." <em>The New Negro An Interpretation</em> edited by Alain Locke, 1925, pp. 385--414.
 
 ### E. Franklin Frazier
-* "[The Garvey Movement.](articles/garvey.html)" <em>Opportunity,</em> vol 4, no. 47, May 1926, pp. 346--348.
-* "[The Pathology of Race Prejudice.](articles/pathology.html)" <em>The Forum,</em> vol LXXVII, no. 6, 1927, pp. 856--862.
+* "[The Garvey Movement](articles/garvey.html)." <em>Opportunity,</em> vol 4, no. 47, May 1926, pp. 346--348.
+* "[Racial Self-Expression](articles/selfexpression.html)." <em>Ebony and Topaz A Collectanea.</em> Edited by Charles S. Johnson. 1927, pp. 119-121.
+* "[The Pathology of Race Prejudice](articles/pathology.html)." <em>The Forum,</em> vol LXXVII, no. 6, 1927, pp. 856--862.
 
 ### Maurice Gates
 * "[Negro Students Challenge Social&nbsp;Forces](articles/students_challenge.html)."  <em>The Crisis,</em> vol 42, no. 8, Aug. 1935, pp. 232--233, 251.
