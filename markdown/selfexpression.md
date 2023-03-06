@@ -26,9 +26,6 @@ citation: "<em>Ebony and Topaz A Collectanea.</em> Edited by Charles S. Johnson.
 ---
 
 
-
-By E. Franklin Frazier
-
 ## I
 
 [119]{.pagenum}
