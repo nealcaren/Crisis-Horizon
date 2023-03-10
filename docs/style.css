@@ -68,7 +68,7 @@ h1, h2, h3, dt {
 }
 
 h1 {
-    font-size: 2em;
+    font-size: 2.25rem;
     margin: 0.67em 0;
 }
 
@@ -324,11 +324,7 @@ caption{display:table-caption;font-weight:300;font-size:1.3em;text-transform:upp
 
 
 img.logol {
-    width: 36px;
-    padding-right: 3px;
-    padding-left: 3px;    
-    vertical-align: middle;
-    display: inline
+    display: none;
   }
 
 .center {
@@ -341,11 +337,7 @@ img.logol {
 }
 
   img.logor {
-    width: 36px;
-    padding-right: 3px;
-    padding-left: 3px;
-    vertical-align: middle;
-    display: inline
+    display: none;
   }
 
 .title {
@@ -366,5 +358,21 @@ h1 {
     font-size: 2.5em;
     margin: 0.67em 0;
 }
+
+img.logol {
+    width: 36px;
+    padding-right: 3px;
+    padding-left: 3px;    
+    vertical-align: middle;
+    display: inline
+  }
+
+  img.logor {
+    width: 36px;
+    padding-right: 3px;
+    padding-left: 3px;
+    vertical-align: middle;
+    display: inline
+  }
 
 }
