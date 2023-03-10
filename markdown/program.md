@@ -16,7 +16,7 @@ citation: Address given at the First Sociological Club. Special Collections and 
 
 
 
-<span class="pagenum" id="Page_1">[1]</span>I desire this afternoon to read to the First Sociological Club a
+<span class="pagenum" id="Page_1">1</span>I desire this afternoon to read to the First Sociological Club a
 candid criticism of its' work and a suggestion for its' future activity.
 I do this the more boldly because I am a member of the organization and as such must bear my part of the responsibility for its' short­ comings; and at the same time, I speak as an outsider, for in the year that I have had my name on the rolls I have had no opportunity to share in the work of the club. I always hear with a certain foreboding shiver of the formation of a club for any kind of sociological work, for my experience has taught me that the percentage of absolute failure among
 such clubs is very large. The trouble is apt to be that the persons forming clubs for social reform have very vague ideas of what the science of sociology really is, and what is the real aim and object of their striving. Consequently it can easily happen that they drift aimlessly on until the members begin to wonder whether it is worthwhile to waste so much time doing nothing. I fancy I have seen in this club something of the same tendency, and it seems to me that the great need of this organization is a clearer conception of its' aims and more practical
@@ -26,11 +26,11 @@ I have therefore chosen for my subject <em>A Program for a Sociological Society<
 
 ## 1st. What is Sociology
 
-There was a vast revolution which took place in the early part of<span class="pagenum" id="Page_2">[2]</span> 
+There was a vast revolution which took place in the early part of<span class="pagenum" id="Page_2">2</span> 
 this century that is too often forgotten by educated people. It came after that terrible upheaval of human institutions which we call the French Revolution, after the orgies of Robespierre, Danton, and Marat, and became finally the great instrument that freed Europe from the grasp of the arch-tyrant Napoleon. This revolution was the industrial revolution of the 19th century. It began in the 18th century, when the science of chemistry was first well established, when geology gained a sure foundation when Brinley showed the world how to dig canals uphill, when iron began to be smelted by coal instead of charcoal, and above all when James Watt turned a tea-kettle into a steam engine. Such epoch-making inventions changed the civilization of the world and with the dawn of the 19th century came an industrial revolution --- factories started up, towns grew, commerce expanded, capital increased, the world market widened. If we regard this industrial movement more carefully we shall see that of all departments of human industry the manufacture of cotton made the most gigantic strides in this epoch. The ancient world dressed in wool, the middle age in wood and linen, the modern world dressed largely in cotton. The series of inventions that made cotton manufacture possible are a curious example of coincidence. Between the years 1775 and 1825, Arkwright Hargreaves, Cartwright, and Eli Whitney had changed the spinning wheel into the factory and made the southern United States the cotton field of the world.
 
 This industrial revolution had serious consequences: first it fastened American Slavery in this country and made emancipation more difficult, and the Negro problem more baffling; More that that in all lands it gave rise to and intensified those intricate questions of life and death and civilization which we call social problems: human being were, by the new concentration of industrys, crowded into centers of population and the difficulties, <span class="correction" title="Transcriber's Note: &quot;deseases&quot; in original.">diseases</span>, and maladjustments of human life became intensified and more patent to the eye. Crime, poverty, <span class="correction" title="Transcriber's Note: &quot;desease&quot; in original.">disease</span>,
-pros<span class="pagenum" id="Page_3">[3]</span>titution, 
+pros<span class="pagenum" id="Page_3">3</span>titution, 
 ignorance, and death began to assume threatening proportions. Men came to be attracted to these sinister phenomena and to ask what they real­ly meant, how far they were remediable, and how far inevitable.
 
 There was then but one science which undertook the study of the phenomena of human action and th twas the science of political economy. But this science was limited in scope: it began in the 17th nd 18th century when the phenomena of money and international trade first assumed importance and confined itself simply to a study of wealth: it asked how goods were produced, how they were distributed among the producers, and
@@ -43,7 +43,7 @@ What these laws are we hardly know, and yet we do know that
 there are in life curious and noticeable coincidences --- <span class="correction" title="Transcriber's Note: &quot;rythm&quot; in original.">rhythm</span> in life and death, a working out of cause and effect, <span class="correction" title="Transcriber's Note: &quot;evidenes&quot; in original.">evidences</span> of force action and reaction, which cannot be ignored or neglected. Many eminent men still insist that this mass of partially digested facts cannot be called a science --- and indeed if you mean by science, a body knowledge with definitely stated laws, and carefully systematized facts, then Sociology is not yet a science and may never become one. But if you mean by Sociology a vast and fruitful field of inquiry into the mysterious phenomena of human action, which
 has yielded evidence of the working of scientific laws to some extent, and
 promises much for the future --- if such a work deserves, as 
-many<span class="pagenum" id="Page_4">[4]</span> think,
+many<span class="pagenum" id="Page_4">4</span> think,
 the name of science, then Sociology is one of the greatest of sciences.
 
 
@@ -76,7 +76,7 @@ in turn combine to form that higher generalization which we call Society.
 Society is simply a general name for the regularities of human action --- for 
 the general fact that when 50, 100, <span class="correction" title="Transcriber's Note: &quot;Or&quot; in original.">or</span> 1,000,000 live together they
 do not all act irresponsibly or at random but according to 
-well-known<span class="pagenum" id="Page_5">[5]</span>
+well-known<span class="pagenum" id="Page_5">5</span>
 maxims, social forces and laws.
 
 All this that I have said can best be illustrated by a few actual
@@ -110,7 +110,7 @@ the former is usually a sign of high civilization --- postponement of
 marriage until the support of a family is assured, and life according
 to the laws of hygiene. Son in the same country the character of a
 community may easily be approximately fixed by measuring the number
-<span class="pagenum">[6]</span>
+<span class="pagenum">6</span>
 of people in every thousand that die annually. A death rate above 26
 is high, while one above 30 points to grave dangers. The rate may be
 as low as 18 as in Norway. The average death rate of Negroes in cities
@@ -146,7 +146,7 @@ that 67% of them were under 30 years of age and 11% under 20.
 
 Using such minute and detailed statistics sociology has built up
 the theory of the social group. The country village is a social group.
-<span class="pagenum">[7]</span>
+<span class="pagenum">7</span>
 Its population distributed in a certain normal order as to age and sex
 and conjugal condition. Its birth and death regulating the increase of
 population. There is some crime, a school, a church, a village store.
@@ -180,7 +180,7 @@ The interest in social reform and general betterment which animates
 so many excellent people today must not be mistaken for the science of
 Sociology. There are many people who have a vague desire to right wrongs,
 help the needy, and reform the vicious. Unfortunately these people in
-<span class="pagenum">[8]</span>
+<span class="pagenum">8</span>
 very many 
 <span class="correction" title="Transcriber's Note: &quot;instanses&quot; in original.">instances</span> 
 are ignorant of the results of scientific research in
@@ -215,7 +215,7 @@ occasional error of men who give their life to knowing is not as dangerous
 as the perpetual error of men who guess or dogmatize. The facts and the
 meaning of the facts are then the first steps in modern social reform.
 
-<span class="pagenum">[9]</span>
+<span class="pagenum">9</span>
 How now shall the mass of intelligent people who have not time to
 be experts put themselves in position to use the material collected by
 sociologists in the practical work of reform? We can best answer this
@@ -249,7 +249,7 @@ be learned, but still a realm where the day of guesswork is past. In the
 matter of charity, perhaps the greatest advance has been made. The
 classic examples of this is the history of the English poor law. At
 first England frowned fiercely on beggery and poverty and whipped and
-<span class="pagenum">[10]</span>
+<span class="pagenum">10</span>
 branded and hanged the poor devils. Then she melted into sentiment and
 coddled and stuffed her paupers until it seemed ae though all England
 would go to begging. Finally the state bethought itself to ask who are
@@ -287,7 +287,7 @@ have several times seriously asked myself whether I was justified in
 attending those meetings and whether there was a reasonable prospect of
 an end of aimless talking and a beginning of definite doing. We seem to
 me in the first place to have no clear idea of what the society is for;
-<span class="pagenum">[11]</span>
+<span class="pagenum">11</span>
 we seem again to have a tendency to fritter away precious time on trifles,
 we seen to forget when we are discussing ways and means that all this is
 not mere theory but that definite information of the experience of others
@@ -325,7 +325,7 @@ uncleaness, the spread of disease and the like. Those are some
 very elementary matters connected with the life of children in slums which
 any consideration of the subject must take up. But beside this the central
 part of the discussion ought to have been the slums of Atlanta: we
-<span class="pagenum">[12]</span>
+<span class="pagenum">12</span>
 ought to have had the map of several typical alleys showing the size and
 relation of the houses, the number of rooms, the number dwelling there,
 and the number and size of children; the general characteristics of the
@@ -363,7 +363,7 @@ I said to myself, however, this society is young yet --- next fall
 the work will begin. And lo! at the first meeting I attended the club
 was adopting a new constitution. I must say I was somewhat disgusted ---
 what do we want I thought of a New Constitution when we have done nothing
-<span class="pagenum">[13]</span>
+<span class="pagenum">13</span>
 under the old one. A constitution is not worth the paper it is written on
 unless it is backed by deeds and give the deeds and I care not whether we
 have a constitution or not. One of the objects of the new constitution
@@ -397,7 +397,7 @@ and see how they were situated with regard to the various agencies for
 This was not theory or experiment --- it was simply analogous to a
 great work now being done in New York City. Yet this society virtually
 spoiled the plan by appointing an aimless committee to give pastors of
-var<span class="pagenum">[14]</span>ious
+var<span class="pagenum">14</span>ious
 churches advice as to their mission fields in the city. The
 chairman of the committee protested at the time that this method of attacking
 the matter would not do --- but not we must have the committee. And of course
@@ -437,7 +437,7 @@ effort. Let me take up these 2 things in order:
 First, I say, this society should aim to gather facts and information
 for its own and others use. I was once pursuing an elaborate piece of
 investigation in regard to the negroes of a certain city, when I came across
-<span class="pagenum">[15]</span>
+<span class="pagenum">15</span>
 a woman who could if she would give me much valuable matter, she looked at
 me suspiciously and said, "What's the object of this investigation?" "simply
 to get at the truth", I answered. "Do you propose to do anything after you
@@ -475,7 +475,7 @@ streets, migration, wages, occupations, marriage and divorce, illegitimacy,
 education, church organizations, other organizations - every general fact
 which bears upon the condition of the Negro in this city, past and present
 ought to be carefully collected and recorded, and now and then published.
-<span class="pagenum">[16]</span>
+<span class="pagenum">16</span>
 We should follow th« history of alleys, compile a careful list of the worthy,
 study minutely the abode and history of the criminals, keep an eye
 upon orphans and homeless waifs --- in fact, no fact or condition should escape
@@ -514,7 +514,7 @@ libraries, savings associations and general reform work could in this way be spr
 by sheer contagion through the various church constituencies and communities.
 
 This society should stand ready to send to ever single church in Atlanta
-<span class="pagenum">[17]</span>
+<span class="pagenum">17</span>
 two, three times a year competent persons to explain to the members some
 elementary matter of reform --- ventilation, the use of water, sewing schools, 
 hygienic cooking, reading, saving, and etc. in this way effort could be 
@@ -555,7 +555,7 @@ years we might thus place in every school house in the city a circulating
 library and begin to send some to the country schools --- simple work, nothing
 great, no wholesale manufacture of saints, nothing to wave our hands about or
 yell, but **Work**, **Reform** and **Advance** such as in the past has built nations and
-<span class="pagenum">[18]</span>
+<span class="pagenum">18</span>
 and empires. When this enterprise was well started and in charge of the 
 proper committee --- or possibly given over to some special organization, we could
 begin another and larger effort --- but slowly, carefully. 
@@ -590,7 +590,7 @@ I might easily go on naming a hundred different methods of work
 <span class="correction" title="Transcriber's Note: &quot;distributy&quot; in original.">distributing</span>
 tracts, offering prizes in the schools and churches, a 
 comprehensive system of neighborhood visiting, careful organized and persistently
-<span class="pagenum">[19]</span>
+<span class="pagenum">19</span>
 conducted serine of mothers meetings and fireside schools, temporary care of
 waifs and foundlings, shelters for friendless girls, a social settlement
 house in the slums, --- all these and many more --- not all at once, not all
@@ -627,7 +627,7 @@ of the nation.
 
 Fellow-workers, the Negro problem is in this room --- between these four
 walls and it is the question as to whether the best class of intelligent 
-<span class="pagenum" id="Page_1">[20]</span> 
+<span class="pagenum" id="Page_1">20</span> 
 Negroes can so cooperate in unselfish effort as to better in some degree
 the condition of the <span class="correction" title="Transcriber's Note: &quot;Negroe&quot; in original.">Negro</span> masses. Among the masses we have problems but
 not Negro problems --- there are problems of crime, of poverty, of sexual
@@ -635,5 +635,3 @@ lewdness, of ill-health, of heredity. The **Negro** problem is the question
 whether those who have raised themselves above this dead level of
 degradation can do as other nations have done --- cooperate, investigate, sacrifice,
 and lift as they climb.
-
-

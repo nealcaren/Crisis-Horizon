@@ -27,7 +27,7 @@ citation_lastpage: 348
 
 
 
-<span class="pagenum">[346]</span>Garvey, himself, could not have planned a
+<span class="pagenum">346</span>Garvey, himself, could not have planned a
 more strategic climax to his career in
 America than his imprisonment in Atlanta. The
 technical legal reason for his incarceration is
@@ -148,7 +148,7 @@ turned the Negro's attention to this world. This
 was accomplished not only by promising the Negro
 a paradise in the future in Africa; but through the
 invention of social distinctions and honors, 
-the Ne<span class="pagenum">[347]</span>gro
+the Ne<span class="pagenum">347</span>gro
 was made somebody in his present environment.
 The humblest follower was one of the “Fellowmen
 of the Negro Race,” while the more distinguished 
@@ -276,7 +276,7 @@ The question is often asked, “Is Garvey sincere?” The same question might be
 McGee brothers of the Kentucky Revival and of
 evangelists in general. Although Garvey's appeal
 has been more permanent, his methods have 
-been<span class="pagenum">[348]</span>
+been<span class="pagenum">348</span>
 in many respects those of the evangelist. Just because 
 evangelists as a rule are well fed and free
 from material wants, it would be uncritical to put
@@ -287,6 +287,3 @@ with life as most so-called cranks, but he has initiated
 a mass movement among Negroes because it
 appealed to something that is in every crowd-minded 
 man.
-
-
-

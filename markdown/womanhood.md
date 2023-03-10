@@ -15,7 +15,7 @@ citation: "<em>The New Negro An Interpretation</em> edited by Alain Locke, 1925,
 
 ---
 
-<span class="pagenum">[369]</span>
+<span class="pagenum">369</span>
 Throughout the years of history, woman has been the
 weather-vane, the indicator, showing in which direction the wind of
 destiny blows. Her status and development have augured now calm and
@@ -46,7 +46,7 @@ mass.
 Because only a few have caught this vision, even in New York, the
 general attitude of mind causes the Negro woman serious difficulty. She
 is conscious that what is left of chivalry is not directed toward her.
-She realizes that the ideals of <span class="pagenum">[370]</span>beauty, built up in the
+She realizes that the ideals of <span class="pagenum">370</span>beauty, built up in the
 fine arts, have excluded her almost entirely. Instead, the grotesque
 Aunt Jemimas of the streetcar advertisements, proclaim only an ability
 to serve, without grace of loveliness. Nor does the drama catch her
@@ -83,7 +83,7 @@ economic class. Keeping their women free to preside over the family,
 these women are affected by the problems of every wife and mother, but
 touched only faintly by their race's hardships. They do share acutely in
 the prevailing difficulty of finding competent household help.
-<span class="pagenum">[371]</span>Negro wives find Negro maids unwilling generally to work in
+<span class="pagenum">371</span>Negro wives find Negro maids unwilling generally to work in
 their own neighborhoods, for various reasons. They do not wish to work
 where there is a possibility of acquaintances coming into contact with
 them while they serve and they still harbor the misconception that
@@ -117,7 +117,7 @@ the temptation to pause for a moment and pay tribute to these Negro
 mothers. And to call attention to the service she is rendering to the
 nation, in her struggle against great odds to educate and care for one
 group of the country's children. If the mothers of the race should
-<span class="pagenum">[372]</span>ever be honored by state or federal legislation, the
+<span class="pagenum">372</span>ever be honored by state or federal legislation, the
 artist's imagination will find a more inspiring subject in the modern
 Negro mother---self-directed but as loyal and tender as the much
 extolled, yet pitiable black mammy of slavery days.
@@ -153,7 +153,7 @@ from the position of stenographer. Her duties involve attendance upon
 staff conferences, executive supervision of her staff of white office
 workers, broadcasting and journalism of the highest order.
 
-<span class="pagenum">[373]</span>Yet in spite of the claims of justice and proved
+<span class="pagenum">373</span>Yet in spite of the claims of justice and proved
 efficiency, telephone and insurance companies and other corporations
 which receive considerable patronage from Negroes deny them
 proportionate employment. Fortunately this is an era of changing
@@ -189,7 +189,7 @@ officers, investigators and police women in the correctional departments
 of the city; as Big Sisters attached to the Children's Court; as field
 workers and visitors for relief organizations, missions and churches; as
 secretaries for traveller's aid societies; in the many organizations
-devoted to preventative and educational <span class="pagenum">[374]</span>medicine; in
+devoted to preventative and educational <span class="pagenum">374</span>medicine; in
 clinics and hospitals and as boys' and girls' welfare workers in
 recreation and industry.
 
@@ -225,7 +225,7 @@ colored children in positions ranging from clerk in the elementary
 school on up through the graded ranks of teachers in the lower grades,
 of special subjects in the higher grades, in the junior high schools and
 in the senior high schools. One Negro woman is assistant principal in an
-elementary school where the other assistant and <span class="pagenum">[375]</span>the
+elementary school where the other assistant and <span class="pagenum">375</span>the
 principal are white men and the majority of the teachers white. Another
 Negro woman serves in the capacity of visiting teacher to several
 schools, calling upon both white and colored families and experiencing
@@ -258,7 +258,7 @@ an earnest and forward-looking group of women. They are endeavoring to
 hold for the future the progress that has been made in the past. The
 Negro woman teacher finds that, figuratively speaking, she must stand on
 her tip toes to do it, for educational standards are no longer what they
-were. Surrounded by forces <span class="pagenum">[376]</span>which persistently work to
+were. Surrounded by forces <span class="pagenum">376</span>which persistently work to
 establish the myth of his inferiority, the Negro youth must be
 encouraged to think vigorously and to maintain a critical attitude
 toward what he is taught. The Negro teacher is bending herself to the
@@ -293,7 +293,7 @@ enlargement of this field for Negro women.
 One might go on to such interesting and more unusual professions as
 bacteriology, chemistry and pharmacy, etc., and find that though the
 number in any one may be small, the Negro woman is creditably
-represented in practically every one, and <span class="pagenum">[377]</span>according to
+represented in practically every one, and <span class="pagenum">377</span>according to
 ability, she is meeting with success. In the fields of literature and
 art, the Negro woman's culture has once more begun to flower. After the
 long quiescent period, following the harvest from the pen of Phyllis
@@ -328,7 +328,7 @@ that the problem lay as much in the short-sighted,
 the alienated or unintelligent attitude of the Negro worker. More
 sincerity and understanding was greatly needed. Within the past year,
 she has worked with two Negro men, a white woman and two white men, all
-<span class="pagenum">[378]</span>union members, and with this committee of six has brought
+<span class="pagenum">378</span>union members, and with this committee of six has brought
 about a conference of accredited delegates from thirty-three unions in
 New York City. This is the first all-union conference held on adjusting
 the Negro workers' problem. As a result, a permanent organization has
@@ -363,7 +363,7 @@ Because of the limited fields for this group, many of the unsuccessful
 drift into the fourth social grade---the domestic and casual workers.
 These drifters increase the difficulties of the Negro women suited to
 housework. New standards of household management are forming and the
-problem of the <span class="pagenum">[379]</span>Negro woman is to meet these new
+problem of the <span class="pagenum">379</span>Negro woman is to meet these new
 businesslike ideals. The constant influx of workers unfamiliar with
 household conditions in New York keeps the situation one of turmoil. The
 Negro woman, moreover, is revolting against residential domestic
@@ -399,7 +399,7 @@ tribes from which the Negro sprang have strict codes for sex relations.
 There is no proof of inherent weakness in the ethnic group.
 
 Gradually overcoming the habitual limits imposed upon her
-<span class="pagenum">[380]</span>by slave masters, she increasingly seeks legal sanction for
+<span class="pagenum">380</span>by slave masters, she increasingly seeks legal sanction for
 the consummation and dissolution of sex contracts. Contrary to popular
 belief, illegitimacy among Negroes is cause for shame and grief. When
 economic, social and biological forces combined bring about unwed
@@ -433,7 +433,7 @@ challenge to young Negro womanhood is to see clearly this trend and
 grasp the proffered comradeship with sincerity. In this matter of sex
 equality, Negro women have contributed few outstanding militants, a
 notable instance being the historic Sojourner Truth. On the whole the
-Negro <span class="pagenum">[381]</span>woman's feminist efforts are directed chiefly toward
+Negro <span class="pagenum">381</span>woman's feminist efforts are directed chiefly toward
 the realization of the equality of the races, the sex struggle assuming
 the subordinate place.
 
@@ -469,7 +469,7 @@ in various fields of endeavor. Recently a trained nurse told how,
 starting in the same schools as they, she had risen to the executive
 position in the Harlem Health Information Bureau. A commercial artist
 showed how real talent had overcome the color line. The graduate
-physician <span class="pagenum">[382]</span>was a living example of the modern opportunities
+physician <span class="pagenum">382</span>was a living example of the modern opportunities
 in the newer fields of medicine open to women. The vocations, as outlets
 for the creative instinct, became attractive under the persuasion of the
 musician, the dressmaker and the decorator. A recent graduate outlined

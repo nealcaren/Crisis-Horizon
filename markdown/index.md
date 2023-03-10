@@ -29,6 +29,8 @@
 ### Elise Johnson McDougald
 * "[The Task of Negro Womanhood.](articles/womanhood.html)" <em>The New Negro An Interpretation</em> edited by Alain Locke, 1925, pp. 369--382.
 
+### Ira De A. Reid
+* "[Mirrors of Harlem—Investigations and Problems of America’s Largest Colored Community](articles/mirrors_of_harlem.html)." <em>Social Forces,</em> vol 5, no. 4, Jun. 1927, pp. 628--634.
 
 ### Walter White
 * "[Chicago and It's Eight Reasons.](articles/chicago.html)" <em>The Crisis,</em> 1919, pp. 293--397.

@@ -14,7 +14,7 @@ citation: "<em>The New Negro An Interpretation</em> edited by Alain Locke, 1925,
 
 ---
 
-<span class="pagenum" id="Page_386">[385]</span>
+<span class="pagenum" id="Page_386">385</span>
 Once upon a time in my younger years and in the dawn of
 this century I wrote: "The problem of the twentieth century is the
 problem of the color line." It was a pert and singing phrase which I
@@ -39,7 +39,7 @@ will is too often confined to that labor which we see and feel and
 exercise around us, rather than directed to the periphery of the vast
 circle, where unseen and inarticulate, the determining factors are at
 work. And may not the continual baffling of our
-<span class="pagenum" id="Page_386">[386]</span>
+<span class="pagenum" id="Page_386">386</span>
 effort and
 failure of our formula be due to just such mistakes? Modern imperialism
 and modern industrialism are one and the same system; root and branch of
@@ -77,7 +77,7 @@ so much ancient black blood in this peninsula.
 
 Between the Portuguese and the African and near African there is
 naturally no "racial" antipathy---no accumulated historical
-<span class="pagenum">[387]</span>
+<span class="pagenum">387</span>
 hatreds, dislikes, despisings. Not that you would likely
 find a black man married to a Portuguese of family and wealth, but on
 the other hand it seemed quite natural for Portugal to make all the
@@ -115,7 +115,7 @@ Chamberlain, "Empire preference" and protection. When the Liberals came
 into power in 1906 the Unionists in retaliation began to attack labor
 conditions in Portuguese Sao Thomé, where Cadbury and others got their
 cocoa and made the profits out of which
-<span class="pagenum">[388]</span>
+<span class="pagenum">388</span>
 they supported the
 "Daily Mail." The Colonel declared that labor conditions in Sao Thomé
 were quite ideal, whereas Nevinson and others had declared that they
@@ -153,7 +153,7 @@ melted away and colonial proprietors with smaller holdings could afford
 to compete with the great planters; wherefore democracy, both
 industrially and politically, took new life in black Portugal.
 Intelligent black deputies appeared in the
-<span class="pagenum">[389]</span>
+<span class="pagenum">389</span>
 Portuguese
 parliaments, a hundred black students studied in the Portuguese
 universities and a new colonial code made black men citizens of Portugal
@@ -189,7 +189,7 @@ He writes me now and then, but fairly spits his letters at me,---and
 they are always filled with some defense of Belgium in Africa, or rather
 with some accusation against England, France and Portugal there. I do
 not blame Panda, although I do not agree with his reasoning.
-<span class="pagenum">[390]</span>
+<span class="pagenum">390</span>
 Unwittingly summer before last I tore his soul in two. His
 reason knows that I am right, but his heart denies his reason. He was
 nephew and therefore by African custom heir of a great chief who for
@@ -225,7 +225,7 @@ continues to send me clippings and facts to prove this.
 In this last matter he is in a sense right. England and France and
 Germany deliberately laid their shadow across Africa. Belgium had Africa
 thrust upon her. Bismarck intended
-<span class="pagenum">[391]</span>
+<span class="pagenum">391</span>
 the Congo Free State for
 Germany and he cynically made vain and foolish Leopold temporary
 custodian; and even after Bismarck's fall, Germany dreamed of an Africa
@@ -298,7 +298,7 @@ every method, by appeal, by deceit, by halfconcealed force. She threw
 them ruthlessly into horrible slaughter. She made them "shock" troops.
 They walked from the tall palms of Guinea and looked into the mouths of
 Krupp guns without hesitation, with scarcely a tremor. France
-<span class="pagenum">[393]</span>
+<span class="pagenum">393</span>
 watched them offer the blood sacrifice for their adopted
 motherland with splendid *sang-froid,* often with utter abandon.
 
@@ -336,7 +336,7 @@ district. And the whole colonial bloc stand outside the interests of
 home political parties, while these parties know little of the
 particular local demands of the colonies. As this situation develops
 there will come
-<span class="pagenum">[394]</span>
+<span class="pagenum">394</span>
 the question of the practicality of ruling
 a world nation with one law-making body. And if devolution of power
 takes place what will be the relation of self-governing colonies to the
@@ -373,7 +373,7 @@ government, while both at home and in the colonies democracy in industry
 continued to progress; what would this cost? It would mean, of course,
 nothing less than the giving up of the idea of an exclusive White Man's
 World. It would be a revolt and a tremendous
-<span class="pagenum">[395]</span>
+<span class="pagenum">395</span>
 revolt against
 the solidarity of the West in opposition to the South and East. France
 moving along this line would perforce carry Italy, Portugal and Spain
@@ -411,7 +411,7 @@ As I looked more narrowly, what seemed to be happening was this: the
 white Frenchmen were exploiting black Africans in practically the same
 way as white Englishmen, but they had not yet erected or tried to erect
 caste lines. Consequently, into
-<span class="pagenum">[396]</span>
+<span class="pagenum">396</span>
 the ranks of the exploiters
 there arose continually black men and mulattoes, but these dark men were
 also exploiters. They had the psychology of the exploiters. They looked
@@ -448,7 +448,7 @@ thoroughly by excellent French teachers in accordance with a curriculum
 which, as far as it went, was equal to that of any European school; its
 graduates could enter the higher schools of France. A few hundred
 students
-<span class="pagenum">[397]</span>
+<span class="pagenum">397</span>
 out of a black population of nineteen millions is
 certainly but a start. This development will call for money and trained
 guidance and will interfere with industry. It is not likely that the
@@ -485,7 +485,7 @@ of the whites, while black town sweltered below. Despite my diplomatic
 status I was haled before the police and in the same room where
 criminals were examined I was put through the sharpest grilling I ever
 met in a presumably civilized land. Why? I was a black American
-<span class="pagenum">[398]</span>
+<span class="pagenum">398</span>
 and the English fear black folk who have even tasted
 freedom. Everything that America has done crudely and shamelessly to
 suppress the Negro, England in Sierra Leone has done legally and suavely
@@ -522,7 +522,7 @@ slave trade and before the discovery that slavery and serfdom in Africa
 could be made to pay more than the removal of the laboring forces to
 other parts of the world, there was a disposition to give over to the
 natives the black colonies
-<span class="pagenum">[399]</span>
+<span class="pagenum">399</span>
 on the fever coast and the
 British Government announced the intention of gradually preparing West
 Africans for self-government. Missionary education and the sending of
@@ -559,7 +559,7 @@ Determined effort was thus made by the English, both merchants and
 philanthropists, to cut the natives off from any union of forces or of
 interests with the educated West Africans. "Protectorates" under
 autocratic white rule were attached to
-<span class="pagenum">[400]</span>
+<span class="pagenum">400</span>
 the colonies and the
 natives in the protectorates were threatened with loss of land, given
 almost no education and left to the mercy of a white colonial staff
@@ -597,7 +597,7 @@ misgivings."
 The final resolutions of the Congress said, "that in the opinion of this
 Conference the time has arrived for a change in the Constitution of
 several British West African colonies, so
-<span class="pagenum">[401]</span>
+<span class="pagenum">401</span>
 as to give the
 people an effective voice in their affairs both in the Legislative and
 Municipal Governments, and that the Conference pledges itself to submit
@@ -638,7 +638,7 @@ curiously counteracted them. Liberal England, wanting world peace and
 fearing French militarism, backed by the English thrift that is
 interested in the restored economic equilibrium, found as one of its
 most prominent
-<span class="pagenum">[402]</span>
+<span class="pagenum">402</span>
 spokesmen Jan Smuts of South Africa, and Jan
 Smuts stands for the suppression of the blacks.
 
@@ -676,7 +676,7 @@ that Conference was the fear of the colored world.
 This almost naïve setting of the darker races beyond the pale of
 democracy and of modern humanity was listened to with sympathetic
 attention in England. It is without doubt
-<span class="pagenum">[403]</span>
+<span class="pagenum">403</span>
 to-day the
 dominant policy of the British Empire. Can this policy be carried out?
 It involves two things---acquiescence of the darker peoples and
@@ -713,7 +713,7 @@ the night of the Guild Hall banquet when the Prime Minister spoke on
 work of the Imperial Conference. It was significant that in the
 forefront of his words, cheek by jowl with Imperial "foreign policy,"
 stood the "intensity of feeling in India on the question of the
-<span class="pagenum">[404]</span>
+<span class="pagenum">404</span>
 status of British Indians in the Empire." What indeed could
 be more fundamental than this in the building of world peace? Are the
 brown Indians to share equally in the ruling of the British Empire or
@@ -749,7 +749,7 @@ of whites.
 
 Suddenly a great race conflict swept East Africa---orient and occident,
 white, brown and black, landlord, trader and landless 
-<span class="pagenum">[405]</span>
+<span class="pagenum">405</span>
 serf.
 When the Indians asked rights, the whites replied that this would injure
 the rights of the natives. Immediately the natives began to awake. Few
@@ -786,7 +786,7 @@ yielding of much, but yielding. India is to have a revision of the
 impossible "diarachy"; all West Africa is to have a small elective
 element in its governing councils; and even the far West Indies have
 been visited by a colonial undersecretary and parliamentary committee,
-the first of its kind in <span class="pagenum">[406]</span>
+the first of its kind in <span class="pagenum">406</span>
 the long history of the islands.
 Their report is worth quoting in part: "Several reasons combine to make
 it likely that the common demand for a measure of representative
@@ -825,7 +825,7 @@ new political organizations which are determined to force a larger
 measure of democracy in industry than now obtains. The trade union labor
 movement dominant in Australia, South Africa and the United States has
 been hitherto
-<span class="pagenum">[407]</span>
+<span class="pagenum">407</span>
 autocratic and at heart capitalistic,
 believing in profit-making industry and wishing only to secure a larger
 share of profits for particular guilds. But the larger labor movement
@@ -861,7 +861,7 @@ and misled men will ever demand universal democracy for all men?
 The chief hope lies in the gradual but inevitable spread of the
 knowledge that the denial of democracy in Asia and Africa hinders its
 complete realization in Europe. It is this that makes the Color Problem
-and the Labor Problem to so<span class="pagenum">[408]</span>
+and the Labor Problem to so<span class="pagenum">408</span>
 great an extent two sides of
 the same human tangle. How far does white labor see this? Not far, as
 yet. Its attitude toward colored labor varies from the Russian extreme
@@ -898,7 +898,7 @@ How much intelligent organization is there for this purpose on the part
 of the colored world? So far there is very little. For while the colored
 people of to-day are common victims of white culture, there is a vast
 gulf between the red-black South and the yellow-brown East. In the East
-long since, centuries <span class="pagenum">[409]</span>
+long since, centuries <span class="pagenum">409</span>
 ago, there were mastered a technique
 and philosophy which still stand among the greatest the world has known;
 and the black and African South, beginning in the dim dawn of time when
@@ -934,7 +934,7 @@ spirit which is neither hypocritical nor unbelieving. On the other hand
 *Africa* and Asia have no command of technique or mastery of
 physical force that can compare with that of the West; they know
 practically nothing of mass-time production and their knowledge
-<span class="pagenum">[410]</span>
+<span class="pagenum">410</span>
 of the facts of the universe is far behind modern
 knowledge.
 
@@ -973,7 +973,7 @@ held together by militarism. Militarism is costly and to increasing
 masses of men since the Great War, hateful; more than this---the darker
 world is held in subjection to Europe by its own darker soldiers. Africa
 is owned and held almost entirely by Europe; but at the same time Africa
-is held and kept in<span class="pagenum">[411]</span>
+is held and kept in<span class="pagenum">411</span>
 subjection to Europe by black troops;
 black troops in the Sudan, black troops in French Africa, black troops
 in British West Africa, black troops in Belgian Congo, black troops in
@@ -1011,7 +1011,7 @@ In the United States there are certain unheralded indications of
 development in the Negro problem. One is the fact that for the first
 time in America, the American Negro is to-day universally recognized as
 capable of speaking for himself. To realize the significance of this one
-has but to remember that<span class="pagenum">[412]</span>
+has but to remember that<span class="pagenum">412</span>
 less than twenty-five years ago a
 conference of friends of the Negro could meet at Lake Mohonk to discuss
 his problems without a single Negro present. And even later than that,
@@ -1047,7 +1047,7 @@ Japanese!
 Led by American Negroes, the Negroes of the world are reaching out hands
 toward each other to know, to sympathize, to inquire. There are few
 countries without their few Negroes, few great cities without its
-groups, and thus with this <span class="pagenum">[413]</span>
+groups, and thus with this <span class="pagenum">413</span>
 great human force, spread out as
 it is in all lands and languages, the world must one day reckon. We
 face, then, in the modern black American, the black West Indian, the
@@ -1084,7 +1084,7 @@ we sail to the Canaries. And then turning we sought the curve of that
 mighty and fateful shoulder of gigantic Africa. Slowly, slowly we creep
 down the coast in a little German cargo boat. Yonder behind the horizon
 is Cape Bojador whence in 1441 came the brown Moors and black Moors who
-through the slave trade built America and<span class="pagenum">[414]</span>
+through the slave trade built America and<span class="pagenum">414</span>
 modern commerce
 and let loose the furies of the world. Another day afar we glide past
 Dakar, city and center of French Senegal. Thereupon we fall down, down
