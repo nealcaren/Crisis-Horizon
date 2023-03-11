@@ -105,17 +105,21 @@ h6 {
 
 
 a {
-    color: #8DB359;
+    color: darkgrey;
     cursor: pointer;
     outline: 0 none;
-    text-decoration: underline;
 }
 
 a:hover {
-    outline: 0 none;
-    color: #739544;
+    color: black;
+    text-decoration: underline;
+
 }
 
+
+a:visited {
+    color: black;
+}
 
 p, pre {
     margin: 1em 0;
@@ -219,7 +223,7 @@ ul > li:before {
     background-color: #423F37;
     border-radius: 14px 14px 14px 14px;
     content: "";
-    height: 6px;
+    height: 0px;
     margin-right: 0.333em;
     margin-top: 0.55em;
     position: absolute;

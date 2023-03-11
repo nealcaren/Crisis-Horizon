@@ -5,13 +5,13 @@
 
 
 ### Sadie T.M. Alexander
-* "[Negro Women in Our Economic Life](articles/negro_women.html)." <em>Opportunity</em>, vol 8, no. 7, July 1930, pp. 201–203.
+* [Negro Women in Our Economic Life](articles/negro_women.html)<br><em>Opportunity</em>, vol 8, no. 7, July 1930, pp. 201–203.
 
 
 ### W.E.B. Du Bois
-* "[A Program for a Sociological Society.](articles/program.html)" Address given at the First Sociological Club, ca. 1897.
+* [A Program for a Sociological Society](articles/program.html)<br>Address given at the First Sociological Club, ca. 1897.
 <!--* "[The African Roots of War.](articles/african_roots_of_war.html)" <em>The Atlantic Monthly,</em> May, 1915, pp. 707--714.-->
-* "[The Negro Mind Reaches Out](articles/reaches.html)." <em>The New Negro An Interpretation</em> edited by Alain Locke, 1925, pp. 385--414.
+* [The Negro Mind Reaches Out](articles/reaches.html)<br><em>The New Negro An Interpretation</em> edited by Alain Locke, 1925, pp. 385--414.
 
 ### E. Franklin Frazier
 * "[The Garvey Movement](articles/garvey.html)." <em>Opportunity,</em> vol 4, no. 47, May 1926, pp. 346--348.
