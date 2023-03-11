@@ -20,21 +20,35 @@ body {
   background: #fefefe;
 }
 
+
 a {
-  color: #0645ad;
+  color: darkgrey;
+  cursor: pointer;
+  outline: 0 none;
+}
+
+a:hover {
+  color: black;
+  text-decoration: underline;
+
+}
+
+
+a {
+  color: #darkgrey;
   text-decoration: none;
 }
 
 a:visited {
-  color: #0b0080;
+  color: #black;
 }
 
 a:hover {
-  color: #06e;
+  color: #black;
 }
 
 a:active {
-  color: #faa700;
+  color: #black;
 }
 
 a:focus {

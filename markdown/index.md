@@ -14,26 +14,30 @@
 * [The Negro Mind Reaches Out](articles/reaches.html)<br><em>The New Negro An Interpretation</em> edited by Alain Locke, 1925, pp. 385--414.
 
 ### E. Franklin Frazier
-* "[The Garvey Movement](articles/garvey.html)." <em>Opportunity,</em> vol 4, no. 47, May 1926, pp. 346--348.
-* "[Racial Self-Expression](articles/selfexpression.html)." <em>Ebony and Topaz A Collectanea.</em> Edited by Charles S. Johnson. 1927, pp. 119-121.
-* "[The Pathology of Race Prejudice](articles/pathology.html)." <em>The Forum,</em> vol LXXVII, no. 6, 1927, pp. 856--862.
+* [The Garvey Movement](articles/garvey.html)<br> <em>Opportunity,</em> vol 4, no. 47, May 1926, pp. 346--348.
+* [Racial Self-Expression](articles/selfexpression.html)<br><em>Ebony and Topaz A Collectanea.</em> Edited by Charles S. Johnson. 1927, pp. 119-121.
+* [The Pathology of Race Prejudice](articles/pathology.html)<br> <em>The Forum,</em> vol LXXVII, no. 6, 1927, pp. 856--862.
 
 ### Maurice Gates
-* "[Negro Students Challenge Social&nbsp;Forces](articles/students_challenge.html)."  <em>The Crisis,</em> vol 42, no. 8, Aug. 1935, pp. 232--233, 251.
+* [Negro Students Challenge Social&nbsp;Forces](articles/students_challenge.html)<br>  <em>The Crisis,</em> vol 42, no. 8, Aug. 1935, pp. 232--233, 251.
 
 ### Charles S. Johnson
-* "[Public Opinion and the Negro](articles/public_opinion.html)." <em>Opportunity,</em> vol 1, no. 7, July 1923, pp.  201--205.
-* "[After Garvey---What?](articles/after_garvey.html)" <em>Opportunity,</em> vol 1, no. 8, Aug. 1923, pp.  231--233.
+* [Public Opinion and the Negro](articles/public_opinion.html)<br> <em>Opportunity,</em> vol 1, no. 7, July 1923, pp.  201--205.
+* [After Garvey---What?](articles/after_garvey.html)<br> <em>Opportunity,</em> vol 1, no. 8, Aug. 1923, pp.  231--233.
 
 
 ### Elise Johnson McDougald
-* "[The Task of Negro Womanhood.](articles/womanhood.html)" <em>The New Negro An Interpretation</em> edited by Alain Locke, 1925, pp. 369--382.
+* [The Task of Negro Womanhood](articles/womanhood.html)<br> <em>The New Negro An Interpretation</em> edited by Alain Locke, 1925, pp. 369--382.
 
 ### Ira De A. Reid
-* "[Mirrors of Harlem—Investigations and Problems of America’s Largest Colored Community](articles/mirrors_of_harlem.html)." <em>Social Forces,</em> vol 5, no. 4, Jun. 1927, pp. 628--634.
+* [Mirrors of Harlem—Investigations and Problems of America’s Largest Colored Community](articles/mirrors_of_harlem.html).<br> <em>Social Forces,</em> vol 5, no. 4, Jun. 1927, pp. 628--634.
+* [Lily-White Labor](articles/lilywhite.html)<br> <em>Opportunity,</em> vol 8, no. 6, Jun. 1930, pp. 170--173, 189.
+
 
 ### Walter White
-* "[Chicago and It's Eight Reasons.](articles/chicago.html)" <em>The Crisis,</em> 1919, pp. 293--397.
+* [Chicago and It's Eight Reasons](articles/chicago.html)<br><em>The Crisis,</em> 1919, pp. 293--397.
 
 
-<p class="center"> [About <span class="">Crisis Horizon</span>](about.html)
+
+<hr>
+<p class="center"> [About <span class="center">Crisis Horizon</span>](about.html)
