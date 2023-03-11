@@ -328,7 +328,9 @@ caption{display:table-caption;font-weight:300;font-size:1.3em;text-transform:upp
    font-style: italic;
 }
 
-
+.smallcaps {
+    font-variant: small-caps;
+}
 
 img.logol {
     display: none;

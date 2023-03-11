@@ -29,6 +29,9 @@
 ### Elise Johnson McDougald
 * [The Task of Negro Womanhood](articles/womanhood.html)<br> <em>The New Negro An Interpretation</em> edited by Alain Locke, 1925, pp. 369--382.
 
+### Kelly Miller
+* [Review of <em>The&nbsp;Negro&nbsp;in&nbsp;Chicago,</em> by Chicago Commission on Race Relations](articles/negro_in_chicago.html)<br><em>American Journal of Sociology,</em> vol 29, no. 4, Jan. 1924, pp. 499--503.
+
 ### Ira De A. Reid
 * [Mirrors of Harlem—Investigations and Problems of America’s Largest Colored Community](articles/mirrors_of_harlem.html).<br> <em>Social Forces,</em> vol 5, no. 4, Jun. 1927, pp. 628--634.
 * [Lily-White Labor](articles/lilywhite.html)<br> <em>Opportunity,</em> vol 8, no. 6, Jun. 1930, pp. 170--173, 189.
@@ -40,4 +43,6 @@
 
 
 <hr>
-<p class="center"> [About <span class="center">Crisis Horizon</span>](about.html)
+::: center
+About [[Crisis Horizon]{.smallcaps}](about.html)
+:::
