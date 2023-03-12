@@ -11,7 +11,8 @@
 ### W.E.B. Du Bois
 * [A Program for a Sociological Society](articles/program.html)<br>Address given at the First Sociological Club, ca. 1897.
 <!--* "[The African Roots of War.](articles/african_roots_of_war.html)" <em>The Atlantic Monthly,</em> May, 1915, pp. 707--714.-->
-* [The Negro Mind Reaches Out](articles/reaches.html)<br><em>The New Negro An Interpretation</em> edited by Alain Locke, 1925, pp. 385--414.
+* [The Negro Mind Reaches Out](articles/reaches.html)<br><em>The New Negro An Interpretation</em> edited by Alain Locke, 1925, pp. 385--414.<br>
+<!--* <blockquote>And thus again in 1924 as in 1899 I seem to see the problem of the 20th century as the Problem of the Color Line.</blockquote>-->
 
 ### E. Franklin Frazier
 * [The Garvey Movement](articles/garvey.html)<br> <em>Opportunity,</em> vol 4, no. 47, May 1926, pp. 346--348.
@@ -24,12 +25,14 @@
 ### Charles S. Johnson
 * [Public Opinion and the Negro](articles/public_opinion.html)<br> <em>Opportunity,</em> vol 1, no. 7, July 1923, pp.  201--205.
 * [After Garvey---What?](articles/after_garvey.html)<br> <em>Opportunity,</em> vol 1, no. 8, Aug. 1923, pp.  231--233.
-
+* [The New Frontage of American Life](articles/frontage.html)<br> <em>The New Negro An Interpretation</em> edited by Alain Locke, 1925, pp. 278--298.
 
 ### Elise Johnson McDougald
 * [The Task of Negro Womanhood](articles/womanhood.html)<br> <em>The New Negro An Interpretation</em> edited by Alain Locke, 1925, pp. 369--382.
 
 ### Kelly Miller
+* [Enumeration Errors in Negro Population](articles/enumeration.html)<br>
+*The Scientific Monthly*, Vol. 14, No. 2 (Feb., 1922), pp. 168-177"
 * [Review of <em>The&nbsp;Negro&nbsp;in&nbsp;Chicago,</em> by Chicago Commission on Race Relations](articles/negro_in_chicago.html)<br><em>American Journal of Sociology,</em> vol 29, no. 4, Jan. 1924, pp. 499--503.
 
 ### Ira De A. Reid

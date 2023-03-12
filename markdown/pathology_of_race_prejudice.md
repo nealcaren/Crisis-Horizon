@@ -3,7 +3,7 @@ charset: 'UTF-8'
 lang:    'en'
 
 title: The Pathology of Race&nbsp;Prejudice
-short_title: Pathology of Race Prejudice
+short_title: Pathology
 
 author:
 - name: E. Franklin Frazier

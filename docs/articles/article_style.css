@@ -241,25 +241,29 @@ figcaption {
   margin: 0 0 .8em;
 }
 
+
+.table-title {
+  font-weight: bold;
+  margin-bottom: .25em;
+}
+
+
 table {
   margin-bottom: 2em;
-  border-bottom: 1px solid #ddd;
-  border-right: 1px solid #ddd;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
   border-spacing: 0;
   border-collapse: collapse;
+  margin-right: 1em;
 }
 
 table th {
-  padding: .2em 1em;
-  background-color: #eee;
-  border-top: 1px solid #ddd;
-  border-left: 1px solid #ddd;
+  padding: .1em 1em;
+  border-bottom: 1px solid black;
 }
 
 table td {
-  padding: .2em 1em;
-  border-top: 1px solid #ddd;
-  border-left: 1px solid #ddd;
+  padding: .1em 1em;
   vertical-align: top;
 }
 
@@ -272,7 +276,11 @@ table td {
   display: none;
 }
 
-
+.verse ul {
+  list-style: none;
+  text-indent: -2em;
+  padding-left: 4em;
+}
 
 /* Nav Bar */
 nav {
@@ -294,7 +302,6 @@ span.publisher > a {
 
 nav .title {
 float: right;
-font-family: "Fira Sans","Myriad Pro","Myriad",sans-serif;
 font-size: 1.12rem;
 color: grey;
 }
@@ -360,6 +367,9 @@ padding-top: 0;
 margin-top: 0;
 }
 
+.pad2 {
+  padding-left: 2em;
+}
 
 
 @media only screen and (min-width: 480px) {

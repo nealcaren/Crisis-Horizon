@@ -2,7 +2,7 @@
 charset: 'UTF-8'
 lang:    'en'
 
-title: Review of <em>The&nbsp;Negro&nbsp;in&nbsp;Chicago,</em> by Chicago Commission on Race Relations
+title: Review of <em>The&nbsp;Negro in&nbsp;Chicago,</em> by Chicago Commission on Race Relations
 citation_title: "Review: Review: The Negro in Chicago. by Chicago Commission on Race Relations"
 short_title: Chicago
 
