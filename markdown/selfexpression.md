@@ -17,8 +17,6 @@ citation_title: Racial Self-Expression
 citation_journal_title: Ebony and Topaz
 citation_author: Frazier, E. Franklin
 citation_publication_date: 1927
-citation_volume: 1
-citation_issue: 1
 citation_firstpage: 119
 citation_lastpage: 121
 

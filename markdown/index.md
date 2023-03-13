@@ -37,6 +37,7 @@
 
 ### Ira De A. Reid
 * [Mirrors of Harlem—Investigations and Problems of America’s Largest Colored Community](articles/mirrors_of_harlem.html).<br> <em>Social Forces,</em> vol 5, no. 4, Jun. 1927, pp. 628--634.
+* [Mrs. Bailey Pays the Rent](articles/rent.html)<br><em>Ebony and Topaz A Collectanea.</em> Edited by Charles S. Johnson. 1927, pp. 144--147.
 * [Lily-White Labor](articles/lilywhite.html)<br> <em>Opportunity,</em> vol 8, no. 6, Jun. 1930, pp. 170--173, 189.
 
 

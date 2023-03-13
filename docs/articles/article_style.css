@@ -276,10 +276,28 @@ table td {
   display: none;
 }
 
+.verse {
+  font-size: 12pt;
+  line-height: 18pt;
+}
+
 .verse ul {
   list-style: none;
   text-indent: -2em;
   padding-left: 4em;
+}
+.indent4 {
+  padding-left: 4em;
+  float: left;
+}
+
+.verse ul ul {
+  list-style: none;
+  text-indent: -2em;
+  padding-left: 2em;
+  margin-top: 0;
+  margin-bottom: 0;
+
 }
 
 /* Nav Bar */

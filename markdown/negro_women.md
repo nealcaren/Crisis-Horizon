@@ -20,7 +20,7 @@ citation_publication_date: 1930
 citation_volume: 8
 citation_issue: 7
 citation_firstpage: 201
-citation: <em>Opportunity,</em> vol 1, no. 8, Aug. 1923, pp.  231--233.
+citation_lastpage: 203
 
 ---
 
